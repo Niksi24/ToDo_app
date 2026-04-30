@@ -19,11 +19,11 @@ A simple web application for managing tasks, built with Node.js, Express, and a 
 Follow these steps to get the project running locally:
 
 1. **Clone the repository:**
-   git clone https://github.com/Niksi24/ToDo_app.git
-   cd todo-app
+- git clone https://github.com/Niksi24/ToDo_app.git
+- cd todo-app
 2. **Install dependencies and packages**
-   npm install
-   npm install express
-   npm install sanitize-html better-sqlite3
+- npm install
+- npm install express
+- npm install sanitize-html better-sqlite3
 4. **Start the server**
    npm run dev or node server.js
