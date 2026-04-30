@@ -20,7 +20,7 @@ Follow these steps to get the project running locally:
 
 1. **Clone the repository:**
 - git clone https://github.com/Niksi24/ToDo_app.git
-- cd todo-app
+- cd ToDo_app
 2. **Install dependencies and packages**
 - npm install
 - npm install express
